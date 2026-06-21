@@ -141,7 +141,7 @@ export const botConfig = {
       // Default footer text used in bot embeds.
       text: "HEX",
       // Footer icon URL (null = no icon).
-      icon: https://i.imgur.com/L2uK5QQ.gif,
+      icon: null,
     },
     // Default thumbnail URL for embeds (null = no thumbnail).
     thumbnail: null,
